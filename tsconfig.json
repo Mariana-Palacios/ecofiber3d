@@ -2,6 +2,14 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+      "@components/*": ["./src/app/components/*"],
+      "@services/*": ["./src/app/services/*"],
+      "@shared/*": ["./src/app/shared/*"],
+      "@constants/*": ["./src/app/constants/*"],
+      "@interfaces/*": ["./src/app/interfaces/*"],
+      "@STL/*": ["./src/assets/*"]
+    },
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
