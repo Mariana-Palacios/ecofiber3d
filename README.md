@@ -1,27 +1,60 @@
 # Ecofiber3d
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+![Alt Welcome](image src/assets/welcome.svg)
 
-## Development server
+## Author
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [@Mariana-Palacios](https://www.github.com/Mariana-Palacios)
 
-## Code scaffolding
+## Prerequisites to Run the Application
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Runtimes and Engines
 
-## Build
+- npm: 10.1.0
+- Angular CLI: ^17.1.0
+- TypeScript: ~5.3.2
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Tools and Dependencies
 
-## Running unit tests
+- IDE or Code Editor (Visual Studio Code)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Instructions to Run the Application
 
-## Running end-to-end tests
+Run the following command
+###  Frontend 🌐
+```bash
+  ng serve
+  
+```
+# Commits
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Versiones
 
-## Further help
+| Versión | V1 |
+|---------------------|---------|
+| Versión 1             | V1     |
+| Versión 2             | V2    |
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Razones del commit
+
+| Estado | Tipo     |
+|------------|----------|
+| Terminado    | ✔️ |
+| En Proceso    | ✨  |
+| Ajuste    | ⚙️  |
+| Bug    | 🐞  |
+| Css    | 🌈  |
+
+
+## Registro de Cambios
+
+| Versión | Tipo     | Descripción del Cambio               |
+|---------------------|----------|--------------------------------------|
+| HU1                 | ✔️      | Adjusted CSS styles on the home page |
+
+
+Example 
+
+```bash
+feat: [V1] ✔️ Adjusted CSS styles on the home page
+```
